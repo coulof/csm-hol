@@ -11,4 +11,9 @@ Or use your favorite terminal emulator and `ssh root@192.168.1.115`.
 >**Note**: Don't forget to `source /home/prash/ocp/ocp01/env.sh` before running any of the later commands.
 
 ## PowerStore
-PowerStore is accessible at [https://powerstore-1.demo.local](https://powerstore-1.demo.local). 
+PowerStore is accessible at [https://powerstore-1.demo.local](https://powerstore-1.demo.local).
+
+## OpenShift
+OpenShift webconsole is accessible at [console-openshift-console.apps.ocp01.demo.local](console-openshift-console.apps.ocp01.demo.local)
+
+Or with `oc`.
