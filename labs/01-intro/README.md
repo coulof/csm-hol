@@ -14,6 +14,6 @@ Or use your favorite terminal emulator and `ssh root@192.168.1.115`.
 PowerStore is accessible at [https://powerstore-1.demo.local](https://powerstore-1.demo.local).
 
 ## OpenShift
-OpenShift webconsole is accessible at [console-openshift-console.apps.ocp01.demo.local](console-openshift-console.apps.ocp01.demo.local)
+OpenShift webconsole is accessible at [console-openshift-console.apps.ocp01.demo.local](https://console-openshift-console.apps.ocp01.demo.local)
 
 Or with `oc`.
